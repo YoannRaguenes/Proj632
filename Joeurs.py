@@ -16,3 +16,5 @@ tab = div[0].findAll("table", class_="min_width sortable stats_table min_width s
 body = tab[0].findAll("tbody") 
 rows = body[0].findAll("tr")
 print(len(rows))
+
+#test
